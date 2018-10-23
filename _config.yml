@@ -12,7 +12,7 @@ sass:
 # When modifying this file, take care to preserve the indentation. This is YAML ...
 
 # Main Headline, name required, subtitle optional
-name: zobo trebec
+name: jure zebec
 #subtitle:
 subtitle: ^ ^ ^
 
@@ -76,7 +76,7 @@ links:
   - twitter:
       name: Twitter
       show: true
-      href: https://twitter.com/blablabla
+      href: https://twitter.com/jurezebec
       icon: fab fa-twitter
   - weibo:
       name: 微博
